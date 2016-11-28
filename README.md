@@ -20,8 +20,9 @@ Since we are using ECMAscript 6 and JSX we also need the Babel compiler which is
 
 ### Add a container for the React app
 
-```html
 To "connect" the React app with our html document, we create a div with an id.
+
+```html
 <div id="app-content"></div>
 ```
 
